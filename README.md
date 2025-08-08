@@ -15,10 +15,10 @@ Stakeholders, after considering the analysis, can make decisions on:
 
 ____________________________________________________________________________________________________________________________________________
 
-# 🚀License
+🚀License
 
 This project is licensed under the MIT License. You are free to use, modify and share this project with proper attribution
 
-# 🧑‍💻About Me
+🧑‍💻About Me
 
 Hi there! I am Tunde Babalola. I am an IT professional willing to engage with businesses that recognise the need for data analysis in decision making
